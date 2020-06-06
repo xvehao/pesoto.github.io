@@ -1,18 +1,17 @@
 
 # Site settings
-title: Paul E. Soto
-name: Paul E. Soto
-subtitle: Financial Economist
-email: paul.soto@upf.edu
+title: Hao Xue
+name: Hao Xue
+subtitle: MS candidate in Biostatistics at Harvard Chan
+email: hao_xue@hsph.harvard.edu
 description: >
-  Financial Economist
+  MS candidate in Biostatistics
 baseurl: ""
-url: "https://pesoto.github.io/"
-github_username:  pesoto
-disqus_baseurl: "https://pesoto.github.io/"
-disqus_shortname: https-pesoto-github-io
+url: "https://xvehao.github.io/"
+github_username:  xvehao
+disqus_baseurl: "https://xvehao.github.io/"
+disqus_shortname: https-xvehao-github-io
 permalink: :title
-google-site-verification: "EBNpnv4GiHJTmePgRajamxrYtJnc6WlqDyWUITDaSMo"
 
 # Build settings
 markdown: kramdown
@@ -25,7 +24,7 @@ defaults:
     scope:
       path: ""
     values:
-      author: "Paul E. Soto"
+      author: "Hao Xue"
 
 
 
@@ -41,13 +40,13 @@ social:
   - name: GitHub
     icon: github
     username: pesoto
-    url: https://github.com/pesoto
+    url: https://github.com/xvehao
     desc: Fork me on GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
     username: Paul E. Soto
-    url: https://linkedin.com/pesoto
+    url: https://www.linkedin.com/in/hao-xue-178b38150/
     desc: Connect with me on LinkedIn
     share: true
