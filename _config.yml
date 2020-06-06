@@ -39,14 +39,14 @@ gems:
 social:
   - name: GitHub
     icon: github
-    username: pesoto
+    username: xvehao
     url: https://github.com/xvehao
     desc: Fork me on GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: Paul E. Soto
+    username: Hao Xue
     url: https://www.linkedin.com/in/hao-xue-178b38150/
     desc: Connect with me on LinkedIn
     share: true
