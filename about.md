@@ -3,8 +3,8 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-blabla
+I was born and raised in Wenzhou, China, a coastal city famous for two things: One is its enigmatic local dialect (nicknamed Devil's Language in Wikipedia), the other is Wenzhouness businessmen who make their fortune all over the world. During my leisure time, I enjoy performing Chinese calligraphy and oil painting. 
 <br>
 <br>
-Download my <a href="https://github.com/xvehao/xvehao.github.io/blob/master/file/Hao'sCV.pdf">CV</a><br>
+<img src="xvehao.github.io/file/IMG_3446.jpg.jpg" alt="Figure 1">
 <br>
