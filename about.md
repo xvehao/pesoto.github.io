@@ -7,5 +7,5 @@ I was born and raised in Wenzhou, China, a coastal city famous for two things: O
 <br>
 <br>
 ![Sunset](IMG_3446.jpg)
-<img src="xvehao.github.io/file/IMG_3446.jpg" alt="Sunset" style="width:520px;height:360px;" title="Sunset"; algin="middle">
+<img src="IMG_3446.jpg" alt="Sunset" style="width:520px;height:360px;" title="Sunset"; algin="middle">
 <br>
